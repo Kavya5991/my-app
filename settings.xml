@@ -5,12 +5,12 @@
 
   <servers>
     <server>
-      <id>nexus</id>
+      <id>Releases</id>
       <username>maven</username>
       <password>admin123</password>
     </server>
     <server>
-      <id>nexus</id>
+      <id>Snapshot</id>
       <username>maven</username>
       <password>admin123</password>
     </server>
@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://localhost:8081/repository/maven-public/</url>
+      <url>http://192.168.1.153:8081/repository/maven-public/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
