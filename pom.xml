@@ -123,5 +123,7 @@
    <url>https://github.com/Kavya5991/my-app</url>
    <developerConnection>scm:git:https://github.com/Kavya5991/my-app.git</developerConnection>
   <tag>helloworld-1.2</tag>
+        <username>Kavya5991</username>
+  <password>Kavya@9819</password>
   </scm>	
 </project>
