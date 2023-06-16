@@ -14,6 +14,11 @@
       <username>maven</username>
       <password>admin123</password>
     </server>
+    <server>
+    <id>my-app</id>
+    <username>Kavya5991</username>
+    <password>Kavya@9819</password>
+  </server>
   </servers>
 
   <mirrors>
