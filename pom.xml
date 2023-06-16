@@ -119,9 +119,10 @@
     </snapshotRepository>
   </distributionManagement>
   
-      <scm><connection>scm:git:https://github.com/Kavya5991/my-app.git</connection>
-   <url>https://github.com/Kavya5991/my-app</url>
-   <developerConnection>scm:git:https://github.com/Kavya5991/my-app.git</developerConnection>
-  <tag>helloworld-1.2</tag>
+  <scm>
+    <connection>scm:git:https://github.com/Kavya5991/my-app.git</connection>
+    <url>https://github.com/Kavya5991/my-app</url>
+    <developerConnection>scm:git:https://github.com/Kavya5991/my-app.git</developerConnection>
+    <tag>helloworld-1.2</tag>
   </scm>	
 </project>
