@@ -82,7 +82,7 @@
         <configuration>
           
           <tagBase>
-         https://github.com/Kavya5991/my-app.git/tags
+         https://github.com/Kavya5991/my-app/tags
           </tagBase>
           
         </configuration>			  
@@ -120,8 +120,8 @@
     </snapshotRepository>
   </distributionManagement>
   
-      <scm><connection> https://github.com/Kavya5991/my-app.git</connection>
-   <url> https://github.com/Kavya5991/my-app</url>
+      <scm><connection>scm:git:https://github.com/Kavya5991/my-app.git</connection>
+   <url>https://github.com/Kavya5991/my-app</url>
    <developerConnection>scm:git:https://github.com/Kavya5991/my-app.git</developerConnection>
   <tag>helloworld-1.2</tag>
   </scm>	
