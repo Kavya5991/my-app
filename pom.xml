@@ -124,7 +124,7 @@ http://172.21.252.231:9000
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://192.168.1.153/repository/maven-releases/</url>
+      <url>http://192.168.1.153:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
