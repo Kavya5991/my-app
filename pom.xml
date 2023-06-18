@@ -31,7 +31,6 @@ http://172.21.252.231:9000
 </profile>
 </profiles>
     
-  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
