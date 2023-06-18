@@ -16,7 +16,11 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
-
+ <properties>
+    
+    <sonar.host.url>http://172.21.252.231:9000/</sonar.host.url>
+    
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
