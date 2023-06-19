@@ -5,7 +5,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <version>1.0.5</version>
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
@@ -137,6 +137,6 @@ http://172.21.252.231:9000
     <connection>scm:git:git@github.com:Kavya5991/my-app.git</connection>
     <url>git@github.com:Kavya5991/my-app.git</url>
     <developerConnection>scm:git:git@github.com:Kavya5991/my-app.git</developerConnection>
-    <tag>helloworld-1.2</tag>
+    <tag>my-app-1.0.5</tag>
   </scm>	
 </project>
