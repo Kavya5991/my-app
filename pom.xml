@@ -6,7 +6,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
 
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
 
   <name>my-app</name>
@@ -139,6 +139,6 @@ http://172.21.252.231:9000
     <connection>scm:git:git@github.com:Kavya5991/my-app.git</connection>
     <url>git@github.com:Kavya5991/my-app.git</url>
     <developerConnection>scm:git:git@github.com:Kavya5991/my-app.git</developerConnection>
-    <tag>my-app-1.0.1</tag>
+    <tag>my-app-1.0.0</tag>
   </scm>	
 </project>
